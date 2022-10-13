@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<default revision="main" remote="origin" />
 <manifest>
   <project name="goldlucky796/android_device_samsung_y2q" path="device/samsung/y2q" remote="github" />
   <project name="goldlucky796/android_device_samsung_sm8250-common" path="device/samsung/sm8250-common" remote="github" />
